@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scririck/hyur-server.git"
+    "url": "git+https://github.com/scririck/hyur-tracker-server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/scririck/hyur-server/issues"
+    "url": "https://github.com/scririck/hyur-tracker-server/issues"
   },
-  "homepage": "https://github.com/scririck/hyur-server#readme",
+  "homepage": "https://github.com/scririck/hyur-tracker-server#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "directory-tree": "^3.3.1",
